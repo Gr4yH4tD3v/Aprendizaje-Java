@@ -19,7 +19,7 @@ public class DetalleFactura {
 
         //Imprime texto haciendo una pregunta
         System.out.print("Ingrese un segundo precio de producto 2: ");
-        //Captura el dato del usuario y se guarda en la varia
+        //Captura el dato del usuario y se guarda en la variable
         double precio2 = scanner.nextDouble();
 
         //Bruto: Suma todos los productos
