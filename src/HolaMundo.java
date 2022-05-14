@@ -9,8 +9,8 @@ public class HolaMundo {
 }
 
 /* El método main
- * En java este es el método principal y aquí se ejecuta el código
- * public = Indica que es un modificador público
+ * En java este es el método principal y aquí se ejecuta el código.
+ * public = Indica que es un modificador público.
  * static = indica que es un método estático
  * void = significa vacío o sea que no retorna ninguno valor
  * main = Es el método que recibe los siguientes parámetros
