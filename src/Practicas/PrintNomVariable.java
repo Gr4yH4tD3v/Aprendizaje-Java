@@ -1,4 +1,4 @@
-package Basico;
+package Practicas;
 
 public class PrintNomVariable {
     public static void main(String[] args) {
