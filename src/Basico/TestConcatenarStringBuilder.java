@@ -2,7 +2,7 @@ package Basico;
 
 import javax.swing.*;
 
-public class TestConcatenarStingBuilder {
+public class TestConcatenarStringBuilder {
     public static void main(String[] args) {
         //Forma 3: Concatenar con método StringBuilder
 

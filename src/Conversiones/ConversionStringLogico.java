@@ -4,7 +4,7 @@ import javax.swing.*;
 
 public class ConversionStringLogico {
     public static void main(String[] args) {
-        //Conversion de String a Logico
+        //Conversion de String a Lógico
 
         boolean logico1 = false;
         boolean logico2 = false;
