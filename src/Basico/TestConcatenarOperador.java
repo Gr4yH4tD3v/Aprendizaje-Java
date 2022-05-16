@@ -1,9 +1,11 @@
+package Basico;
+
 import javax.swing.*;
 public class TestConcatenarOperador {
     public static void main(String[] args) {
         //Concatenar con operador
 
-        //Variables
+        //Basico.Variables
         String a = "a";
         String b = "b";
         String c = a;

@@ -1,3 +1,5 @@
+package Conversiones;
+
 import javax.swing.*;
 
 public class ConversionStringEntero {

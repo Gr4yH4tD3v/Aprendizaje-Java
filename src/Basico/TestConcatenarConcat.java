@@ -1,10 +1,12 @@
+package Basico;
+
 import javax.swing.*;
 
 public class TestConcatenarConcat {
     public static void main(String[] args) {
         //Forma 2: Concatenar con método concat
 
-        //Variables
+        //Basico.Variables
         String a = "a";
         String b = "b";
         String c = a;

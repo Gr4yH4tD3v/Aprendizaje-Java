@@ -1,3 +1,5 @@
+package Basico;
+
 public class PrintNomVariable {
     public static void main(String[] args) {
         //Definimos dos variables

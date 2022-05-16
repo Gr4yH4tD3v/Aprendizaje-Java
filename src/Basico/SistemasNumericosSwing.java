@@ -1,3 +1,5 @@
+package Basico;
+
 import javax.swing.*;
 
 public class SistemasNumericosSwing {

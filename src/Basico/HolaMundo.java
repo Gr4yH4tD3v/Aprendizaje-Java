@@ -1,3 +1,5 @@
+package Basico;
+
 //Modificador y Nombre de la clase
 public class HolaMundo {
 

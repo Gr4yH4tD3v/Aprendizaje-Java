@@ -1,3 +1,5 @@
+package Basico;
+
 public class ConcatenandoString {
     public static void main(String[] args) {
         //FORMA 1: CONCATENANDO CON +

@@ -1,3 +1,5 @@
+package Basico;
+
 public class CompararString {
     public static void main(String[] args) {
         //Este es un objeto

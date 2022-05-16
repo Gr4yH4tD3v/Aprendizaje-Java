@@ -1,4 +1,4 @@
-//Libraries
+package Basico;//Libraries
 
 import java.util.InputMismatchException;
 //La clase Scanner permite capturar information del usuario

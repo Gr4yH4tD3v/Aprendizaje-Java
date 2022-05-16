@@ -1,4 +1,4 @@
-//Importamos librerías
+package Conversiones;//Importamos librerías
 import javax.swing.*;
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-//Librería
+package Basico;//Librería
 import java.util.Scanner;
 
 public class DetalleFactura {
