@@ -9,7 +9,7 @@ public class MetodoSplit {
 
         //Definimos un String
         String string = "12345-6789";
-        //Definimos un Array de String y le asignamos el metodo y el elemento donde se va a separar
+        //Definimos un Array de String y le asignamos el método y el elemento donde se va a separar
         String[] partes = string.split("-");
         String parte1 = partes[0]; // 12345
         String parte2 = partes[1]; // 6789
