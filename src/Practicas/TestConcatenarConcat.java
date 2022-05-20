@@ -1,4 +1,4 @@
-package Basico;
+package Practicas;
 
 import javax.swing.*;
 
